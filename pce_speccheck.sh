@@ -5,9 +5,9 @@
 # For RHEL/CentOS 7 only.
 
 # Created by: Siew Boon Siong
-# Email: boon.siew@illumioeval.com
+# Email: siew.boonsiong@gmail.com
 # Updated: Jan-28-2021
-# Version: 1.16
+
 
 function TARLOGS_CLEANUP() {
     date=$(date '+%Y-%m-%d')
