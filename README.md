@@ -7,3 +7,5 @@ Run: bash pce_checkspec.sh
 
 <img width="528" alt="image" src="https://user-images.githubusercontent.com/15991040/127792248-2abda409-abbd-422f-b839-ab4ac7bdbee4.png">
 
+A log will be stored in the directory where you run the script.
+- illumioreport_SUCCESS.tgz
