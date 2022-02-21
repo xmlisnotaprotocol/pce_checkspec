@@ -2,7 +2,7 @@
 # This script serves as precheck on the PCE required spec. It helps to identify if the node matches the requirement and determine if
 # any missing dependencies. It is showing output in table view and also save a log file in /var/tmp/_illumio_pcecheck.log.
 # The file can tells more detail after the script has executed.
-# For RHEL/CentOS 7 only.
+# For RHEL/CentOS 7 & 8 only.
 
 # Created by: Siew Boon Siong
 # Email: siew.boonsiong@gmail.com
